@@ -35,6 +35,7 @@ Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub C
 
 See https://tabbyml.github.io/tabby
 
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tabbyml/tabby&type=Date)](https://star-history.com/#tabbyml/tabby&Date)
